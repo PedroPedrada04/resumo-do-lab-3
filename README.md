@@ -1,2 +1,3 @@
 # resumo-do-lab-3
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+No laboratório, eu aprendi a criar um banco de dados SQL utilizando a plataforma Microsoft Azure. Durante o processo, explorou as etapas de configuração e criação de um banco de dados, além de se familiarizar com algumas ferramentas oferecidas pelo Azure para gerenciar e monitorar bancos de dados. Essas ferramentas facilitam a administração de dados, segurança e desempenho, permitindo que você tenha uma visão mais abrangente e prática sobre a criação e gestão de bancos de dados na nuvem
